@@ -1,4 +1,12 @@
-[[THIS S STILL A WORK IN PROGRESS]]
+## Note from the student
+
+Hi, fellow Coursera reviewer!
+
+The code for each plot generating script will automatically try to download the dataset if it is not available in the working directory
+
+Also, all the plots are generated in the working directory
+
+Enjoy!
 
 ## Introduction
 
