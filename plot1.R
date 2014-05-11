@@ -1,6 +1,6 @@
 ## Coursera - Exploratory Data Analysis - Plotting Assignment 1
 ##
-## Plot1.R - generates plot1.png
+## plot1.R - generates plot1.png
 
 ## First of all, we make sure we have the downloaded data available, we will
 ## put it in a file in the local working directory
