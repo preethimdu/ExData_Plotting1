@@ -53,3 +53,4 @@ plot(df.power$timestamp, df.power$Global_reactive_power, type="l",
 
 dev.off()
 
+
