@@ -2,6 +2,8 @@
 ##
 ## plot1.R - generates plot1.png
 
+
+
 ## First of all, we make sure we have the downloaded data available, we will
 ## put it in a file in the local working directory
 filename = "exdata_plotting1.zip"
